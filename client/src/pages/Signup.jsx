@@ -40,7 +40,7 @@ const Signup = () => {
     <div className="signup-container">
       <div className="signup-form">
         <div className='signup-form-left'>
-          <h1 className="logo">The SharpSkill</h1>
+          <h1 className="logo">The HotelManager</h1>
           <h2>Sign up for Best Deals</h2>
           <button className="google-button">Continue with Google</button>
           <div className="divider">Or Sign up with Email</div>

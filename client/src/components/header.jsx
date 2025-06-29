@@ -20,7 +20,7 @@ const Header = () => {
       <Container>
         <Navbar.Brand>
           <NavLink to='/'>
-            <img src={logo} alt="SharpSkill logo" />
+            <img src={logo} alt="HotelManager logo" />
           </NavLink>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarNav" />

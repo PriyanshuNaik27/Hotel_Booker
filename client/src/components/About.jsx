@@ -40,7 +40,7 @@ const About = () => {
                   <h2>About Us</h2>
                   <div className="w-25 bg-secondary" style={{ height: 2 }}></div>
                 </div>
-                <h3 className="h1">Welcome To SharpSkill</h3>
+                <h3 className="h1">Welcome To HotelManager</h3>
                 <div className="h3 mb-4">Your Gateway To Exceptional Stays</div>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum

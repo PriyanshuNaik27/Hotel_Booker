@@ -81,7 +81,7 @@ const Footer = () => {
                   <div>
                     <p><Icon.GeoAltFill className="mx-1" /> 123 Street, New Delhi, India</p>
                     <p><Icon.TelephoneInboundFill className="mx-1" /> +91 9798xxxxxx</p>
-                    <p><Icon.EnvelopeFill className="mx-1" /> SharpSkill@gmail.com</p>
+                    <p><Icon.EnvelopeFill className="mx-1" /> HotelManager@gmail.com</p>
                   </div>
               </div>
             </Col>

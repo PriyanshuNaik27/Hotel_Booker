@@ -49,7 +49,7 @@ const HeroSection = () => {
       </video>
       <div className="hero-content">
         <h1>
-          <span className='hero-content-heading'>Welcome </span> to <br /> The SharpSkill 
+          <span className='hero-content-heading'>Welcome </span> to <br /> The HotelManager 
           <span ref={el} className='changing-text' />
         </h1>
       </div>

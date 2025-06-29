@@ -35,7 +35,7 @@ const Signin = () => {
     <div className="signin-container">
       <div className="signin-form">
         <div className='signin-form-left'>
-          <h1 className="logo">The SharpSkill</h1>
+          <h1 className="logo">The HotelManager</h1>
           <h2>Sign in for Best Deals</h2>
           <button className="google-button">Continue with Google</button>
           <div className="divider">Or Sign in with Email</div>
